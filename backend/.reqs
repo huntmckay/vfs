@@ -1,0 +1,7 @@
+flask,
+flask-cors,
+flask_cors,
+flask-SQLAlchemy,
+flask-RESTful,
+flask_marshmallow,
+marshmallow-sqlalchemy
